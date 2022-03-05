@@ -23,12 +23,15 @@ class Criptografia:
             mat.append(linha)
 
         cript = ''
+        cont_col = 0
         for l in range(col):
             for c in range(col):
                 if mat[c][l] != '':
                     cript += mat[c][l]
-                elif mat[c][l] == '':
+                    cont_col+=1
+                elif mat[c][l] == '' and cont_col == len_str:
                     return cript
-                    #break
+                    break
             cript += ' '
+
         return cript

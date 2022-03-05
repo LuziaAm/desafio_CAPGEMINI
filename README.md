@@ -2,7 +2,7 @@
 
 DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
 
-Teste unnitário com Pytest
+Teste unitário com Pytest
 
 Configuração do ambiente:
 

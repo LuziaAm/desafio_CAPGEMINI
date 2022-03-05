@@ -2,7 +2,7 @@
 
 DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
 
-Teste unitário com Pytest
+**Teste unitário com Pytest**
 
 Configuração do ambiente:
 
@@ -14,7 +14,7 @@ pip install -U pytest pytest --version
 
 Instalar o PyCharm - https://www.jetbrains.com/pt-br/pycharm/download/
 
-->Atenção:<-
+**Atenção:**
 
 Para configurar o pytest como ferramenta de teste, faça a instrução abaixo:
 

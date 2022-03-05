@@ -1,4 +1,4 @@
-from Pages.diferenca import Diferenca
+from Classes.diferenca import Diferenca
 
 n = [1, 5, 3, 4, 2]
 x = 2

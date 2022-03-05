@@ -1,5 +1,5 @@
 
-from Pages.mediana import CalMediana
+from Classes.mediana import CalMediana
 
 lista = [9, 2, 1, 4, 6]
 

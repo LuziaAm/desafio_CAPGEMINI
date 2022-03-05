@@ -1,4 +1,4 @@
-from Pages.criptografia import Criptografia
+from Classes.criptografia import Criptografia
 
 string = "ola mundo"
 

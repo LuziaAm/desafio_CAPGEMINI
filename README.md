@@ -1,6 +1,6 @@
 # desafio_CAPGEMINI
 
-DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
+DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI	
 
 **Teste unitário com Pytest**
 
@@ -18,7 +18,7 @@ Instalar o PyCharm - https://www.jetbrains.com/pt-br/pycharm/download/
 
 Para configurar o pytest como ferramenta de teste, faça a instrução abaixo:
 
-**Abrir o PyCharm e no menu de Configuração vá em "Preferências" configurare nas Ferramentas de integração Python o "pytest" como ferramenta padrão para testes.**
+**Abrir o PyCharm e no menu de Configuração vá em "Preferências" configure nas Ferramentas de integração Python o "pytest" como ferramenta padrão para testes.**
 
 *******************************************************
 **Configuraçãp PyCharm:**

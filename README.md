@@ -2,7 +2,7 @@
 
 DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
 
-Automação com Selenium WebDriver e Pytest
+Teste unnitário com Pytest
 
 Configuração do ambiente:
 

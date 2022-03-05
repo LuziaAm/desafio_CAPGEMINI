@@ -1,4 +1,5 @@
 class CalMediana:
+
     def mediana(lista):
         # Ordena a lista
         arr_sort = sorted(lista)

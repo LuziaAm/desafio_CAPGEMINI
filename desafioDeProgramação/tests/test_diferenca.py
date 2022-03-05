@@ -1,3 +1,4 @@
+
 from Classes.diferenca import Diferenca
 
 n = [1, 5, 3, 4, 2]

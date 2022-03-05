@@ -1,3 +1,4 @@
+
 from Classes.criptografia import Criptografia
 
 string = "ola mundo"
